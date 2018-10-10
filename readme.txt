@@ -1,1 +1,1 @@
-This is a very cool and fun website I created using Marvel's API. This API provides a wide range of information about the Marvel world. So I decided to create a wbesite to utilize the API by making a get requests to display data onto the website. Enjoy!
+This is a very cool and fun website I created using Marvel's API. This API provides a wide range of information about the Marvel world. So I decided to create a wbesite to utilize the API by making get requests to display data onto the website. Enjoy!
